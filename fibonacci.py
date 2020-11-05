@@ -9,7 +9,7 @@ def control(sinir):
         return fibonacci(sinir)
     else:
         
-        sinir=int(input("lütfen poz sayi gir"))
+        sinir=int(input("lütfen pozitif bir sayi giriniz"))
         return fibonacci(sinir)
     
 
