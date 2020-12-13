@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Aug 29 12:11:31 2020
 
-@author: Aslih
-"""
 def control(sinir):
     if(sinir>0):
         return fibonacci(sinir)
